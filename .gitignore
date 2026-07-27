@@ -1,0 +1,6 @@
+# FAT Digital Repair POS
+node_modules/
+.next/
+.env
+*.tsbuildinfo
+next-env.d.ts
